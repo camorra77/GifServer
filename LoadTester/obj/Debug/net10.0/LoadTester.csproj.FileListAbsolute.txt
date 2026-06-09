@@ -1,0 +1,14 @@
+C:\Users\Uros\Desktop\LoadTester\bin\Debug\net10.0\LoadTester.exe
+C:\Users\Uros\Desktop\LoadTester\bin\Debug\net10.0\LoadTester.deps.json
+C:\Users\Uros\Desktop\LoadTester\bin\Debug\net10.0\LoadTester.runtimeconfig.json
+C:\Users\Uros\Desktop\LoadTester\bin\Debug\net10.0\LoadTester.dll
+C:\Users\Uros\Desktop\LoadTester\bin\Debug\net10.0\LoadTester.pdb
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\LoadTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\LoadTester.AssemblyInfoInputs.cache
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\LoadTester.AssemblyInfo.cs
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\LoadTester.csproj.CoreCompileInputs.cache
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\LoadTester.dll
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\refint\LoadTester.dll
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\LoadTester.pdb
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\LoadTester.genruntimeconfig.cache
+C:\Users\Uros\Desktop\LoadTester\obj\Debug\net10.0\ref\LoadTester.dll

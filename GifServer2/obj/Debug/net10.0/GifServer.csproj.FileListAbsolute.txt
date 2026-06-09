@@ -1,0 +1,14 @@
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\GifServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\GifServer.AssemblyInfoInputs.cache
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\GifServer.AssemblyInfo.cs
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\GifServer.csproj.CoreCompileInputs.cache
+C:\Users\Uros\Desktop\GifServer\bin\Debug\net10.0\GifServer.exe
+C:\Users\Uros\Desktop\GifServer\bin\Debug\net10.0\GifServer.deps.json
+C:\Users\Uros\Desktop\GifServer\bin\Debug\net10.0\GifServer.runtimeconfig.json
+C:\Users\Uros\Desktop\GifServer\bin\Debug\net10.0\GifServer.dll
+C:\Users\Uros\Desktop\GifServer\bin\Debug\net10.0\GifServer.pdb
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\GifServer.dll
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\refint\GifServer.dll
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\GifServer.pdb
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\GifServer.genruntimeconfig.cache
+C:\Users\Uros\Desktop\GifServer\obj\Debug\net10.0\ref\GifServer.dll
